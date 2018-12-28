@@ -6,6 +6,7 @@ I've left in the points that generated an error during calculation they show a v
 
 If anyone wants to share an API key so I can complete this, it was getting too expensive to continue using Google's Street View API as a personal project and Google support was not helpful in allowing their apis to be used for nonprofit uses. Thanks to Steven Vance for donating some requests to help complete this effort.
 
+Projection is EPSG4326.
 
 
 Thanks,
